@@ -3,8 +3,9 @@ package com.example.weatherapp
 import android.os.Bundle
 import android.view.inputmethod.EditorInfo
 import android.widget.Toast
-import androidx.appcompat.app.AppCompatActivity
 import com.android.volley.Request
+import androidx.appcompat.app.AppCompatActivity
+
 import com.android.volley.toolbox.JsonObjectRequest
 import com.android.volley.toolbox.Volley
 import com.example.weatherapp.databinding.ActivityMainBinding
